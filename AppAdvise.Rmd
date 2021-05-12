@@ -4,6 +4,7 @@ subtitle: "Chapters 4 (Disarm), 5 (Discover), and 6 (Dream)"
 output:
   ioslides_presentation: default
   slidy_presentation: default
+  incremental: true
 ---
 
 ```{r setup, include=FALSE}
