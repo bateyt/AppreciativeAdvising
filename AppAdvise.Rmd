@@ -3,13 +3,9 @@ title: "Appreciative Advising"
 subtitle: "Chapters 4 (Disarm), 5 (Discover), and 6 (Dream)"
 output:
   ioslides_presentation: default
-  slidy_presentation: default
   incremental: true
+  smaller: true
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 # Disarm: Make a positive first impression with students by creating a safe and welcoming environment
 
