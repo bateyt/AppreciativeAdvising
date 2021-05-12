@@ -27,7 +27,8 @@ knitr::opts_chunk$set(echo = FALSE)
 - Attending behavior and active listening
 - Strength-based story reconstruction
 
-# Dream: Use students' hopes and dreams to help them create positive mental images of their futures
+# Dream: Use students' hopes and dreams to help them create
+positive mental images of their futures
 
 ## {data-background="https://upload.wikimedia.org/wikipedia/commons/4/49/Deep-dream-white-noise-0050.jpg" data-background-size=cover}
 
