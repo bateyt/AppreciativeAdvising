@@ -1,0 +1,38 @@
+---
+title: "Appreciative Advising"
+subtitle: "Chapters 4 (Disarm), 5 (Discover), and 6 (Dream)"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Disarm: Make a positive first impression with students by creating a safe and welcoming environment
+
+## Key Features of the Disarm Phase
+
+- Warm welcome
+- Safe and comfortable environment
+- Appropriate self-disclosure
+- Appropriate nonverbal behavior
+
+# Discover: Build rapport through positive, active questioning that draws out students' strengths, passions, and skills
+
+## Key Features of the Discover Phase
+
+- Effective, open-ended questioning
+- Attending behavior and active listening
+- Strength-based story reconstruction
+
+# Dream: Use students' hopes and dreams to help them create positive mental images of their futures
+
+## {data-background="https://upload.wikimedia.org/wikipedia/commons/4/49/Deep-dream-white-noise-0050.jpg" data-background-size=cover}
+
+## Key Features of the Dream Phase
+
+- Creating powerful images
+- Prospective framework for dreaming
+- Making purposeful connections between the Dream and Discover phases
