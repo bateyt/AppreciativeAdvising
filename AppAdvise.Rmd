@@ -18,10 +18,15 @@ output:
 - Appropriate nonverbal behavior
 
 <div class="notes">
-This is my *note*.
 
-- It can contain markdown
-- like this list
+- Importance of acknowledgment---full frontal stance and smile
+  - Challenges during virtual meetings:  turning on video, when possible; being cognizant of posture, etc.
+- Minimizing distractions; safe and comfortable seat (our campus offices don't always feel "comfortable")
+- Sharing a funny story to lighten the mood?
+- Don't cross arms!
+-*Authenticity*
+-*Asset-based stories*
+-*Sincerity* (sharing, not teaching/preaching)
 
 </div>
 
