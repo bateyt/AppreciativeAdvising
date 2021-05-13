@@ -58,3 +58,5 @@ output:
 - Creating powerful images
 - Prospective framework for dreaming
 - Making purposeful connections between the Dream and Discover phases
+
+# Next time:  Design, Deliver, and Don't Settle
