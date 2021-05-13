@@ -1,9 +1,10 @@
 ---
 title: "Appreciative Advising"
 subtitle: "Chapters 4 (Disarm), 5 (Discover), and 6 (Dream)"
-output: ioslides_presentation
-incremental: true
-smaller: true
+output:
+  ioslides_presentation:
+    incremental: true
+    smaller: true
 ---
 
 # Disarm: Make a positive first impression with students by creating a safe and welcoming environment
