@@ -1,8 +1,7 @@
 ---
 title: "Appreciative Advising"
 subtitle: "Chapters 4 (Disarm), 5 (Discover), and 6 (Dream)"
-output:
-  ioslides_presentation: default
+output: ioslides_presentation
 incremental: true
 smaller: true
 ---
