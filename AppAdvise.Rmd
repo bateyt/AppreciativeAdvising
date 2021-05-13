@@ -3,6 +3,7 @@ title: "Appreciative Advising"
 subtitle: "Chapters 4 (Disarm), 5 (Discover), and 6 (Dream)"
 output:
   ioslides_presentation:
+    widscreen: true
     incremental: true
     smaller: true
 ---
@@ -15,6 +16,14 @@ output:
 - Safe and comfortable environment
 - Appropriate self-disclosure
 - Appropriate nonverbal behavior
+
+<div class="notes">
+This is my *note*.
+
+- It can contain markdown
+- like this list
+
+</div>
 
 # Discover: Build rapport through positive, active questioning that draws out students' strengths, passions, and skills
 
